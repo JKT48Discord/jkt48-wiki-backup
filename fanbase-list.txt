@@ -1,0 +1,584 @@
+{{Dalam Pengembangan}}
+
+{| align="center" width="550px" style="text-align:center; border:3px solid #3085cb;"
+|-
+| ''Sembari menunggu migrasi wiki, kunjungi arsip artikel ini di wiki lama: https://jkt48.vercel.app/docs/fanbase''
+|}
+{| align="center" width="550px" style="text-align:center; border:3px solid #3085cb;"
+|-
+| ''Wiki ini bersifat netral, semua fanbase aktif akan dicatat. Apabila ada dualisme fanbase, harap diselesaikan masing-masing.''
+|}
+
+=== Fanbase Member Aktif===
+
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:Ashelytic.jpg|120px]] || Adzana Shaliha || Ashelytic || {{Twitter|Ashelyticofc}} <br> {{Instagram|ashelyticofc}} <br> {{Tiktok|ashelyticofc}} <br> {{LineApp|vss2074t}}
+|-
+| [[Berkas:Christyzer.jpg|120px]] || Angelina Christy || Christyzer || {{Twitter|Christyzer}} <br> {{Instagram|christyzer.ofc}} <br> {{Tiktok|christyzer.ofc}}
+|-
+| [[Berkas:ZeeMotion.jpg|120px]] || Azizi Asadel || ZeeMotion <br> Zeeablle (old) || {{Twitter|ZeeMotionID}} <br> {{Instagram|zeemotionid}} <br> {{Tiktok|zeemotionid}} <br> {{SRlogo}} [https://www.showroom-live.com/r/8ea4f5105230 ZeemotionID] <br> {{YTlogo}} [https://www.youtube.com/channel/UCKxfyx2bfe-Y3EKb7VuZxvg Zeemotion Official] <br> 🌐[https://zeemotion.id/ zeemotion.id] <br> 🌐[https://linktr.ee/zeemotionid linktr.ee/zeemotionid] 
+|-
+| [[Berkas:Onielity.jpg|120px]] || Cornelia Vanisa || Onielity || {{Twitter|Onielity_INA}} <br> {{Instagram|onielity_ofc}}
+|-
+| [[Berkas:Dheyzious.jpg|120px]] || Dhea Angelia || Dheyzious || {{Twitter|Dheyzious}} <br> {{Instagram|dheyzious_ina}} <br> {{Tiktok|dheyzious_ina}}
+|-
+| [[Berkas:OllaTheMiracle.jpg|120px]] || Febriola Sinambela || Oracle (Olla The Miracle) <br> Ollafire (old) || {{Twitter|Olla_TheMiracle}} <br> {{Instagram|olla_themiracle}} <br> {{Tiktok|olla_themiracle}}
+|-
+| [[Berkas:Fenidelity.jpg|120px]] || Feni Fitriyanti || Fenidelity || {{Twitter|Fenidelity_INA}} <br> {{Instagram|fenidelityina}} <br> {{Tiktok|fenidelity_ina}} <br> {{SRlogo}} [https://www.showroom-live.com/r/497e95527401 Fenidelity] <br> 🌐[https://linktr.ee/zeemotionid linktr.ee/fenidelity] 
+|-
+| [[Berkas:Symfiony.jpg|120px]] || Fiony Alveria || Symfiony || {{Twitter|Symfiony}} <br> {{Instagram|symfiony}} <br> {{Tiktok|symfiony}} <br> {{Tokopedia-logo}} [https://www.tokopedia.com/symfiony Symfiony Official] <br> 🌐[https://fionyalveria.id fionyalveria.id] 
+|-
+| [[Berkas:Florisen.jpg|120px]] || Flora Shafiq || FloRisen <br> FloraBloom (old) || {{Twitter|FloRisenID}} <br> {{Instagram|florisen.id}} <br> {{Tiktok|florisenid}} <br> {{YTlogo}} [https://www.youtube.com/channel/UCRLwr9j-se5zlP8V1fNqktA FloRisen ID] <br> 🌐[https://linktr.ee/FLRSN linktr.ee/FLRSN] 
+|-
+| [[Berkas:Siscanation.jpg|120px]] || Fransisca Saraswati || Siscanation || {{Twitter|Siscanation_INA}} <br> {{Instagram|siscanation_ina}} <br> {{Line-logo}} [https://lin.ee/PLxkE4 lin.ee/PLxkE4]
+|-
+| [[Berkas:Freyanation.jpg|120px]] || Freya Jayawardana || Freyanation || {{Twitter|FreyanationID}} <br> {{Instagram|freyanationid}} <br> {{Tokopedia-logo}} [https://www.tokopedia.com/freyanation Freyanation Store]
+|-
+| [[Berkas:Gitroops.jpg|120px]] || Gita Sekar Andarini || Gitroops <br> Gitsernistic (old) || {{Twitter|gitroops}} <br> {{Instagram|gitroops}} <br> {{Tiktok|gitroops}} <br> 🌐[https://linktr.ee/gitroops linktr.ee/gitroops] 
+|-
+| [[Berkas:Helismiley.png|120px]] || Helisma Putri || Helismiley || {{Twitter|Helismiley_OFC}} <br> {{Instagram|helismiley_ofc}}
+|-
+| [[Berkas:Interindah.jpg|120px]] || Indah Cahya || Interindah || {{Twitter|InterindahFC}}
+|-
+| [[Berkas:Jessination.jpg|120px]] || Jessica Chandra || Jessination || {{Twitter|C_Jessination48}} <br> {{Instagram|c_jessination48}}
+|-
+| [[Berkas:Jesster.jpg|120px]] || Jesslyn Callista || Jesster <br> Jenatics (old) || {{Twitter|Jesster_OFC}} <br> {{Instagram|jesster_ofc}}
+|-
+| [[Berkas:Jinanika.jpg|120px]] || Jinan Safa Safira || Jinanika || {{Twitter|Jinanika}} <br> {{Instagram|jinanika_ig}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Kathrina Irene || Kathrinetizen || {{Twitter|kathrinetizen}} <br> {{Instagram|kathrinetizen}} <br> {{Tiktok|kathrinetizen}} <br> 🌐[https://kathrinairene.my.id/ kathrinairene.my.id] 
+|-
+| [[Berkas:Lunarian.jpg|120px]] || Lulu Salsabila || Lunarian || {{Twitter|LunarianID}} <br> {{Instagram|lunarianid}} <br> {{Tiktok|lunarianteam}} 
+|-
+| [[Berkas:MarshaOshi.jpg|120px]] || Marsha Lenathea || Marsha Oshi || {{Twitter|marshaoshi_}} <br> {{Instagram|marshaoshi_}} <br> {{Tiktok|marshaoshi_}} <br> {{YTlogo}} [https://www.youtube.com/channel/UC3t1gB9DSvbyIJUZNjUWY4A Marsha Oshi]
+|-
+| [[Berkas:Muffin.jpg|120px]] || Mutiara Azzahra || Muffin || {{Twitter|MuffinOfficial_}} <br> {{Instagram|muffinofficial_}} <br> {{Tiktok|muffinofficial_}}
+|-
+| [[Berkas:Adellion.jpg|120px]] || Reva Fidela || Adellion || {{Twitter|Adellion_}} <br> {{Instagram|adellion.id}} <br> {{Tiktok|adellion_}} <br> {{Facebook|Adellion.id}} <br> {{SRlogo}} [https://www.showroom-live.com/room/profile?room_id=364078 Adellion Official SHOWROOM] <br> {{YTlogo}} [https://www.youtube.com/c/AdellionOfficialChannel Adellion Motion Pictures] <br> {{Spotify-logo}} [https://open.spotify.com/show/3aCDfvuiuls9VCrA1eCmRr Adellion Audio Podcast] <br> {{Saweria-logo}} [https://saweria.co/adellion saweria.co/adellion] <br> {{Tokopedia-logo}} [https://www.tokopedia.com/adellionmerch Adellion Merchandise Official Store] <br> 🌐[https://www.webtoons.com/id/challenge/hello-im-adel/list?title_no=670771 Hello, I'm Adel (Line Webtoon)] <br> 🌐[https://linktr.ee/adellion linktr.ee/adellion] 
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Shani Indira Natio || Inshanity || {{Twitter|InshanityID}} <br> {{Instagram|inshanityofc}} <br> {{Line-logo}} [https://lin.ee/FpayynC lin.ee/FpayynC] <br> 🌐[https://linktr.ee/inshanity linktr.ee/inshanity] 
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Shania Gracia || 	Gracias <br> Graciactive (old) || {{Twitter|GraciasFans_INA}} <br> {{Instagram|_officialgracias}}
+|-
+| [[Berkas:NAVY.jpg|120px]] || Yessica Tamara || NAVY <br> JOY for Chika (old) <br> Chikanation (old) || {{Twitter|NAVY_INA}} <br> {{Instagram|navy.ina}} <br> {{Tiktok|navy_ina}} <br> {{YTlogo}} [https://www.youtube.com/channel/UC8qvZTInl7nWv56PF4FedOQ NAVY] <br> 🌐[https://linktr.ee/navy_ina linktr.ee/navy_ina] 
+|}
+
+=== Fanbase Trainee ===
+
+==== Gen 10 ====
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:Gisellegance.jpg|120px]] || Alia Giselle Maharani || Gisellegance <br> Aliadiest (old) || {{Twitter|GiselleganceID}} <br> {{Instagram|giselleganceid}} <br> {{Tiktok|Gisellegance.Official}} <br> {{YTlogo}} [https://www.youtube.com/channel/UCLsT4gSdYKIQxG5jTaRu9Rg GiselleganceID]
+|-
+| [[Berkas:Mandaffection.jpg|120px]] || Amanda Sukma || Mandaffection || {{Twitter|mandaffection}} <br> {{Instagram|_mandaffection_}} <br> {{Tiktok|mandaffection}}
+|-
+| [[Berkas:Liamelior.jpg|120px]] || Aurellia || Liamelior <br> Aurelliace (old) || {{Twitter|Liamelior}}
+|-
+| [[Berkas:Callistavers.jpg|120px]] || Calista Alifia Wardhana || Callistavers || {{Twitter|callistaverss}} <br> {{Instagram|callistavers}} <br> {{Tiktok|callistavers}} <br> 🌐[https://lynk.id/callistavers lynk.id/callistavers]
+|-
+| [[Berkas:Abigailuxe.jpg|120px]] || Gabriela Abigail || Abigailuxe || {{Twitter|AbigailuxeOfc}} <br> {{Instagram|abigailuxeofc}} <br> {{Tiktok|abigailuxeofficial}} <br> {{Line-logo}} @abigailuxeofc
+|-
+| [[Berkas:Indiraise.jpg|120px]] || Indira Putri Seruni || Indiraise || {{Twitter|Indiraise_ID}} <br> {{Instagram|indiraise.id}} <br> {{Tiktok|indiraise.id}} <br> 🌐[https://msha.ke/indiraise.id/ msha.ke/indiraise.id]
+|-
+| [[Berkas:Lynear.jpg|120px]] || Jesslyn Elly || Lynear <br> Jelly Bean (old) || {{Twitter|LynearID}} <br> {{Instagram|lynear_id}} <br> {{Tiktok|lynear_id}} <br> 🌐[https://lynear.id/ lynear.id]
+|-
+| [[Berkas:Raishanrise.jpg|120px]] || Raisha Syifa Wardhana || Raishanrise || {{Twitter|RaishanriseOfc}} <br> {{Instagram|raishanrise.official}} <br> {{Tiktok|raishanrise_ofc}} <br> 🌐[https://raishanrise.my.id/ raishanrise.my.id]
+|}
+
+==== Gen 11 ====
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  [[Berkas:Alamanda_logo.jpg|120px]] || Alya Amanda || Alamanda || {{Twitter|Alamanda_INA}} <br> {{Instagram|alamanda_ina}}
+|-
+|  [[Berkas:Aninimous.jpg|120px]] || Anindya Ramadhani || Aninimous <br> (bergabung dengan Aninnation+Anindyaa)|| {{Twitter|aninimous_id}} <br> {{Instagram|aninimous_id}}
+|-
+|  [[Berkas:Auliabzr.jpg|120px]] || Aulia Asyira ||  Auliabzr <br> (bergabung dengan Aulia Troops) || {{Twitter|auliabzr_ofc}} <br> {{Instagram|auliabzr.ofc}}
+|-
+|  [[Berkas:Cathleennexus.png|120px]] || Cathleen Nixie || Cathleennexus || {{Twitter|cathleennexus}} <br> 🌐[https://linktr.ee/Cathleennexus linktr.ee/Cathleennexus]
+|-
+|  [[Berkas:Cellineyours.jpg|120px]] || Celline Thefani || Cellineyours <br> (bergabung dengan Cellinenation) || {{Twitter|CellineyoursOfc}} <br> {{instagram|cellineyoursofc}} <br> {{Tiktok|CellineyoursOfc}} <br> {{LineApp|012lfcua}}
+|-
+|  [[Berkas:Chelsealand.jpg|120px]] || Chelsea Davina || Chelsealand || {{Twitter|ChelsealandOFC}} <br> {{Instagram|chelsealand.id}} <br> {{Tiktok|chelsealand12}} <br> 🌐[https://linktr.ee/chelsealand linktr.ee/chelsealand]
+|-
+|  [[Berkas:Cynthiaction.jpg|120px]] || Chyntia Yaputera || Cynthiaction <br> (gabungan Cynthiavers + Chyntia in Action) || {{Twitter|Cynthiaction}}
+|-
+|  [[Berkas:Denalize.jpg|120px]] || Dena Natalia || Denalize <br> (gabungan Denara + Denalionz) || {{Twitter|DenalizeID}}
+|-
+|  [[Berkas:Desynetsui.jpg|120px]] || Desy Natalia || Desynetsui || {{Twitter|DesyNetsui_ID}} <br> {{Instagram|desynetsui}}
+|-
+|  [[Berkas:Gendiscious.jpg|120px]] || Gendis Mayrannisa || Gendiscious|| {{Twitter|Gendiscious_OFC}} <br> {{Instagram|gendicious_ofc}}
+|-
+|  [[Berkas:Gracyluv.jpg|120px]] || Grace Octaviani || Gracyluv || {{Twitter|Gracyluv_ID}} <br> {{Instagram|gracyluvid}}
+|-
+|  [[Berkas:Degrees.jpg|120px]] || Greesella Adhalia || Degrees <br> (bergabung dengan Greeseliance)|| {{Twitter|Degrees_OFC}} <br> {{Instagram|degrees_ofc}} <br> 🌐[https://linktr.ee/DEGREES_OFC linktr.ee/DEGREES_OFC]
+|-
+|  [[Berkas:Jeanity.jpg|120px]] || Jeane Victoria || Jeanity <br> (bergabung dengan Glory Victoria) || {{Twitter|JeanityID}} <br> {{Instagram|jeanityid}} <br> {{Tiktok|jeanity_}} <br> {{Discord|sSwfQ9vkek}} <br> 🌐[https://linktr.ee/Jeanity linktr.ee/Jeanity]
+|-
+|  [[Berkas:Michiban.jpg|120px]] || Michelle Alexandra || Michiban <br> (bergabung dengan Michion+Michelleytic) || {{Twitter|Michiban_}} <br> {{Tiktok|michiban_}} <br> 🌐[https://linktr.ee/michiban_ linktr.ee/michiban_]
+|}
+
+=== Aliansi Umum ===
+
+{| class="wikitable"
+|-
+! Logo !! Team !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:ONE_Alliance_48.jpg|120px]] || JKT48	 ||  ONE Alliance 48 || {{Twitter|OneAlliance48}} <br> {{Instagram|onealliance48}}
+|-
+| [[Berkas:JAffiliation.jpg|120px]] || Team J ||  J Affiliation || {{Twitter|J_Affiliation}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Team KIII ||  KIII Alliance || {{Twitter|K3Alliance}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Team T ||  Teenagers || {{Twitter|TeenagersIDN}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Academy ||  Alliance of JKT48 Academy || {{Twitter|JKT48_Academy}}
+|}
+
+=== Aliansi Generasi ===
+
+{| class="wikitable"
+|-
+! Logo !! Gen !! Nama Aliansi !! Sosial Media
+|-
+|  || 1st gen ||  #Gen1NeverDie (new) || {{Twitter|Gen1NeverDie}}
+|-
+|  || 4th gen || || {{Twitter|FANT4STICGen4}} (❌?) <br> {{Instagram|gen4defender}}
+|-
+|  || 5th gen ||  Gen 5emangat || {{Twitter|Gen5semangat}}
+|-
+|  || 7th gen || JKT48 7th Generation Alliance || {{Twitter|gen7jkt48}}
+|-
+|  || 8th gen || INFINITY GENERATI∞N || {{Twitter|generati8n}} (❌)
+|-
+| [[Berkas:🤔🤔🤔|120px]] || 9th gen || Elixir || {{Twitter|9thElixir}}
+|-
+| [[Berkas:Decagon.jpg|120px]] || 10th gen || Decagon || {{Twitter|10thDecagon}} <br> 🌐 [https://linktr.ee/10thGenerationDECAGON linktr.ee/10thGenerationDECAGON]
+|-
+| [[Berkas:Ellevte.jpg|120px]] || 11th gen || Ellevte Generation || {{Twitter|ellevte}} <br> 🌐 [https://linktr.ee/Ellevte linktr.ee/Ellevte]
+|}
+
+=== Fanbase Eks-Member ===
+
+==== Gen 1 ====
+
+Member (mungkin) tanpa fanbase:
+* Allisa Astri
+* Intania Pratama Ilham
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Alissa Galliamova || Movaniac, Movattack (?) || 
+|-
+|  || Ayana Shahab || Achanation || {{Twitter|Achanation_INA}}
+|-
+|  || Beby Chaesara Anadila || BebyOshi, Bebyers || {{Twitter|BebyOshi}} <br> {{Instagram|bebyoshiofficial}}
+|-
+|  || Cindy Gulla || CindyVers || {{Twitter|CindyVers0}} (❓)
+|-
+|  || Cleopatra || Cleovers ||
+|-
+|  || Delima Rizky || Delimars ||
+|-
+|  || Devi Kinal Putri || Kinalova, Keluarga Depi, Kinal-oshi || {{Twitter|Kinalova_INA}} (❌) <br> {{Instagram|kinalova_ig}}
+|-
+|  || Diasta Priswarini || Nyashiteru ||
+|-
+|  || Fahira || OfficialFahira (?) ||
+|-
+|  || Frieska Anastasia Laksani || Frieskavers || {{Twitter|FrieskaversINA}}
+|-
+|  || Gabriela Margareth Warouw || Gabycious, GabyOshi || {{Twitter|Gabycious48}}
+|-
+|  || Ghaida Farisya || Kamen Ghaida ||
+|-
+|  || Jessica Vania || Jejelicious ||
+|-
+|  || Jessica Veranda || Veloved || {{Twitter|VeLovedOfficial}}
+|-
+|  || Melody Nurramdhani Laksani || Melodiest || {{Twitter|Melodiest48}}
+|-
+|  || Nabilah Ratna Ayu Azalia || Nabilaholic || {{Twitter|Nabilaholic_INA}}
+|-
+|  || Neneng Rosediana || Chivers ||
+|-
+|  || Nozawa Rena || Renaissance || {{Twitter|Renaissance_JKT}}
+|-
+|  || Rezky Wiranti Dhike || Dhikeringer || {{Twitter|DhikeFC}}
+|-
+|  || Rica Leyona || Ricaleyonator || 
+|-
+|  || Sendy Ariani || Sendylatte ||
+|-
+|  || Shania Junianatha || Shanjunisme || {{Twitter|shanjunisme}}
+|-
+|  || Siti Gayatri || Gayalova (❓)||
+|-
+|  || Sonia Natalia || SoniaOshi || {{Twitter|TeamSolidSonia}}
+|-
+|  || Sonya Pandarmawan || Sonya Lovers, Sovers || {{Twitter|sonya_lovers}}
+|-
+|  || Stella Cornelia || Stellahugs, Stellar(❓) ||
+|-
+|}
+
+==== Gen 2 ====
+
+Member (mungkin) tanpa fanbase:
+* Althea Callista
+* Annisa Athia
+* Nurhalima Oktavianti
+* Olivia Robberecht
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Alicia Chanzia || Achaved, Achanisti || {{Twitter|Acha_JKT48FC}}
+|-
+|  || Annisa Athia || Nisagumi ||
+|-
+|  || Cindy Yuvia || CindviaDealoved, Cindvializer || {{Twitter|CindviaDeaLoved}} (🚧)
+|-
+|  || Della Delila || Dellation || {{Instagram|official_dellation}}
+|-
+|  || Dellia Erdita || Dellicious ||
+|-
+|  || Dena Siti Rohyati || DenaRainbow, Denaction || {{Twitter|DenaRainbow}}
+|-
+|  || Dwi Putri Bonita || UtyLity, Utyers || {{Twitter|Utylity_ID}} (❌)
+|-
+|  || Fakhriyani Shafariyanti || Shafantastic || {{Twitter|shafantastic}}*?
+|-
+|  || Intar Putri Kariina || Kariinizer || {{Twitter|Kariinizer}}
+|-
+|  || Jennifer Hanna || Hannavers, Hannaichi ||
+|-
+|  || Jennifer Rachel Natasya || Rachelicstar, Rachelovers ||
+|-
+|  || Lidya Maulida Djuhandar || Lidyanatic || {{Twitter|Lidyanatic48}} (❓)
+|-
+|  || Nadhifa Karimah || Dhifation ||
+|-
+|  || Nadila Cindi Wantari || Nadilavatic || {{Twitter|NDLVTC_ID}}
+|-
+|  || Natalia || NataliaOshi, Nataliable || {{Twitter|NataliaJKT48FC}} (❌)
+|-
+|  || Noella Sisterina || Noevers || 
+|-
+|  || Novinta Dhini || Novintavers || 
+|-
+|  || Octi Sevpin || Octilovers || 
+|-
+|  || Priscillia Sari Dewi || Sisilovers || 
+|-
+|  || Ratu Vienny Fitrilya || VinyOshi, Vinyvers, Team Viny || {{Twitter|1VinyOshi}}
+|-
+|  || Riskha Fairunissa || Riskhalogic, Ikhavers || {{Twitter|Riskhalogic_INA}} <br> {{Instagram|riskhalogic}}
+|-
+|  || Rona Anggreani || Ayenizers || {{Twitter|AyenizersINA}}
+|-
+|  || Saktia Oktapyani || ViaAllies, Saktiviaction || {{Twitter|ViaAllies_JKT}}
+|-
+|  || Shinta Naomi || Naomissions || {{Twitter|Naomissions}}
+|-
+|  || Sinka Juliani || Sinkadorable || {{Twitter|Sinkadorable}}
+|-
+|  || Thalia || TataOshi ||
+|-
+|  || Thalia Ivanka Elizabeth || Vankastic || {{Twitter|VANKASTIC}}
+|-
+|  || Viviyona || YonaRanger, Viyonalizen (❗) || {{Twitter|YonaRanger}}
+|-
+|}
+
+==== Gen 3 ====
+
+Member (mungkin) tanpa fanbase:
+* Kezia Putri Andinta
+* Pipit Ananda
+* Shaffa Nabila
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Alycia Ferryana || CiStar || {{Twitter|CiStar_INA}}
+|-
+|  || Amanda Dwi Arista || Mandaisuki || {{Twitter|Mandaisuki_INA}} (❓)
+|-
+|  || Andela Yuwono || Andelaice || {{Twitter|Andelaice}}
+|-
+|  || Anggie Putri Kurniasari || Angiels || {{Twitter|angiels_INA}}
+|-
+|  || Aninditha Rahma Cahyadi || Aninlicious || {{Twitter|Aninlicious}} <br> {{Instagram|aninlicious_official}}
+|-
+|  || Ayu Safira Oktaviani || Ayunions || {{Twitter|Ayunions_ID}} (❌)
+|-
+|  || Chikita Ravenska Mamesah || Chikaster || {{Twitter|Chikaster_INA}}
+|-
+|  || Elaine Hartanto || Elainelastic || {{Twitter|Elainelastic}}
+|-
+|  || Farina Yogi Devani || Farinablues || {{Twitter|Farinablues}}
+|-
+|  || Indah Permata Sari || Indaholy || {{Twitter|Indaholy_ID}} (❓)
+|-
+|  || Maria Genoveva Natalia Desy P. G. || Desynfection || {{Twitter|Desynfection}} <br> {{Instagram|desynfection}}
+|-
+|  || Martha Graciela || Graceternity || {{Twitter|Graceternity_FC}}
+|-
+|  || Michelle Christo Kusnadi || Michellisto || {{Twitter|Michellisto}} (❌)
+|-
+|  || Milenia Christien Glory Goenawan || Mileniaction || {{Twitter|Mileniaction}}
+|-
+|  || Nadhifa Salsabila || NadhiFamily <br> NadhiFamous (❗) <br> NadhiFabulous (❗) || {{Twitter|NadhiFamily}} (❌)
+|-
+|  || Ni Made Ayu Vania Aurellia || Aurelliable || {{Twitter|Aurelliable}} <br> {{Instagram|aurelliable}}
+|-
+|  || Nina Hamidah || Ninactions || {{Twitter|Ninactions}} (❌)
+|-
+|  || Putri Farin Kartika || Farinsiders <br> Farinoid (❓) || 
+|-
+|  || Rizka Khalila || YukkaListic <br> YukkaOshi || {{Twitter|YukkaListic}}
+|-
+|  || Sofia Meifaliani || Filosofia || {{Twitter|Filosofia_INA}}
+|-
+|  || Stephanie Pricilla Indarto Putri || Stefilistar || {{Twitter|StefiJKT48_FC}} (❓)
+|-
+|  || Syahfira Angela Nurhaliza || Syahfiranger || {{Twitter|Syahfiranger}} <br> {{Instagram|syahfiranger}}
+|-
+|  || Triarona Kusuma || Tyaffection || {{Twitter|Tyaffection}}
+|-
+|  || Yansen Indiani || Cesenizer || {{Twitter|Cesenizer}}
+|-
+|  || Zebi Magnolia Fawwaz || Zebifurai ||
+|}
+
+==== Gen 4 ====
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Adriani Elisabeth || 	Lisanshine <br> Lisaddict (❗) <br> Lisanthusiazm (❗) || {{Twitter|Lisanshine_INA}} <br> {{Instagram|lisanshine}}
+|-
+|  || Christy Chriselle || Christynions || {{Twitter|Christynions}} <br> {{Instagram|christynions}}
+|-
+|  || Cindy Hapsari || Cindyrections || {{Twitter|cindyrections}} <br> {{Instagram|cindyrections}}
+|-
+|  || Fidly Immanda Azzahra || Atmosfia || {{Twitter|Atmosfia_INA}} <br> {{Instagram|atmosfia_ina}}
+|-
+|  || Jessica Berliana Ekawardani || Jessically || {{Twitter|JessicallyJejes}}
+|-
+|  || Made Devi Ranita Ningtara || Devirytales || {{Twitter|Devirytales}} <br> {{Instagram|devirytales}}
+|-
+|  || Mega Suryani || MegaLight || {{Twitter|MegaLight_INA}} <br> {{Instagram|megalight_}}
+|-
+|  || Melati Putri Rahel Sesilia || Melatinited || {{Twitter|MelatiUnited}} <br> {{Instagram|melatinited.co}}
+|-
+|  || Sri Lintang || StarLintang <br> Lintanguistic (❗) || {{Twitter|StarLintang_}} (❌) <br> {{Instagram|starlintang_}}
+|-
+| [[Berkas:Celinesse.jpg|120px]] || Tan Zhi Hui Celine || Celinesse || {{Twitter|CelinesseWorld}} <br> {{Instagram|ofc_celinesse}} (❌) <br> {{Tiktok|celinesseworld}} <br> {{SRlogo}} [https://www.showroom-live.com/r/38ba95200040 Celinesse Diary] <br> 🌐[https://celinesse.com/ Celinesse.com]
+|-
+|  || Zahra Yuriva Dermawan || Yurivadistic <br> Yurivanastic || {{Twitter|yurivadistic}} (❌) <br> {{Instagram|yurivadisticofficial}}
+|}
+
+==== Gen 5 ====
+
+Member (mungkin) tanpa fanbase:
+* Chintya Hanindhitakirana Wirawan
+* Anggita Destiana Dewi
+* Rissanda Putri Tuarissa
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Adhisty Zara || Adhistyrriors || {{Twitter|adhistyrriors}} <br> {{Instagram|_adhistyrriors}}
+|-
+|  || Citra Ayu Pranajaya Wibrado || Citraince || {{Twitter|Citraince_}}
+|-
+|  || Diani Amalia || Dianistic || {{Twitter|Dianistic_INA}}
+|-
+|  || Elizabeth Gloria Setiawan || Glorious || {{Twitter|glorious_INA}} (❌) <br> {{Instagram|glorious_ina}}
+|-
+|  || Eve Antoinette Ichwan || Evelice || {{Twitter|evelice_ofc}} <br> {{Instagram|evelice_ofc}}
+|-
+|  || Gabryela Marcelina || ActionForAby, Abyvers || {{Twitter|ActionForAby }} (❌) <br> {{Instagram|actionforaby}}
+|-
+|  || Hasyakyla Utami || Skyla || {{Twitter|Skyla_INA}}
+|-
+|  || Helma Sonya || Helmazeizter || {{Twitter|Helmazeizter_ID}}
+|-
+|  || Nurhayati || Ayanesia || {{Twitter|Ayanesia}} <br> {{Instagram|ayanesia_ina}}
+|-
+|  || Puti Nadhira Azalia || Nadhiraction || {{Twitter|nadhiraction__}} <br> {{Instagram|nadhiraction_}}
+|-
+|  || Regina Angelina || Ginalisme || {{Twitter|Ginalisme_INA}} <br> {{Instagram|ginalisme_ina}}
+|-
+|  || Ruth Damayanti Sitanggang || Yutheory || {{Twitter|Yutheory_INA}} (❌) <br> {{Instagram|yutheory}}
+|-
+|  || Sania Julia Montolalu || Sanianistic || {{Twitter|Sanianistic}} <br> {{Instagram|sanianistic}} <br> {{Instagram|official.sanianistic}}
+|-
+|  || Violeta Burhan || Violense || {{Twitter|Violense_ID}}
+|}
+
+==== Gen 6 ====
+
+Member (mungkin) tanpa fanbase:
+* Jihan Miftahul Jannah
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Amanda Priscella || Priscellation || {{Twitter|priscellation}} (❌)
+|-
+|  || Anastasya Narwastu Tety || Tasyamate || {{Twitter|Tasyamate}} <br> {{Instagram|officialtasyamate}}
+|-
+|  || Ariella Calista Ichwan  || Ariellice || {{Twitter|ariellice_ofc}} <br> {{Instagram|ariellice_ig}} <br> 🌐 [https://ariellacalistaichwan.com/ ariellacalistaichwan.com]
+|-
+|  || Denise Caroline || Deniseviour || {{Twitter|Deniseviour}} (❌) <br> {{Instagram|deniseviour}}
+|-
+|  || Erika Ebisawa || Erikania || {{Twitter|erikaniaID}} (🧹) <br> {{Instagram|erikaniaid}}
+|-
+|  || Erika Sintia || Sintiadistic || {{Twitter|Sintiadistic_}} (🚧❌)
+|-
+|  || Graciella Ruth Wiranto || Ciellaster || {{Twitter|Ciellaster_INA}} <br> {{Instagram|ciellaster.ofc}}
+|-
+|  || Kandiya Rafa Maulidita || Kandiyaction || {{Twitter|kandiyaction}} <br> {{Instagram|official_kandiyaction}}
+|-
+|  || Putri Cahyaning Anggraini || Putrisme || {{Twitter|Putrisme_INA}} (❌) <br> {{Instagram|putrismeofficial_}}
+|-
+|  || Rinanda Syahputri || Rinandays || {{Twitter|Rinandays}} <br> {{Instagram|rinandays_ig}}
+|-
+|  || Riska Amelia Putri || Riskaddict || {{Twitter|Riskaddict_ID}} <br> {{Instagram|riskaddict.id}}
+|-
+|  || Shalza Grasita || Shalzallies, Shalzest (❗) || {{Twitter|Shalzallies}} <br> {{Instagram|shalzallies}}
+|}
+
+==== Gen 7 ====
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Aiko Harumi || Aikofoni, AikoOshi || {{Twitter|Aikofoni}} <br> {{Instagram|aikofoni}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Aurel Mayori || Yorigami, Yorinistic || {{Twitter|YorigamiID}} <br> {{Instagram|yorigami_id}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Calista Lea || Calistanesia || {{Twitter|Leanes1a}} (❓)
+|-
+| [[Berkas:Febinetsui.jpg|120px]] || Febi Komaril || Febinetsui || {{Twitter|Febinetsui_ID}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Febrina Diponegoro || Brinisty || {{Twitter|Brinisty_INA}} <br> {{Instagram|Brinisty_INA}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Gabriel Angelina || Brielliance, Buddyriel || {{Twitter|BriellianceID}} <br> {{Instagram|brielliance.id}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Kanya Caya || Kanyaffection || {{Twitter|Kanyaffection}} <br> {{Instagram|kanyaffection.ina}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Nabila Fitriana || Lastarlight || {{Twitter|la_starlight}} <br> {{Instagram|lastarlightofficial}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Rifa Fatmasari || Rifanions || {{Twitter|Rifanions}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Viona Fadrin || Vionaexible || {{Twitter|vionaexible_}} <br> {{Instagram|vionaexible_}}
+|-
+|}
+
+==== Gen 8 ====
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Amanina Afiqah || Afiqaristic || {{Twitter|Afiqaristic_OFC}} <br> {{Instagram|afiqaristic_}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Amirah Fatin || Miracle || {{Twitter|MiracleID_}} <br> {{Instagram|miraclearchive_}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Cindy Nugroho || NU Story|| {{Twitter|NUstory_id}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Devytha Maharani || Devysion || {{Twitter|Devysion}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Eriena Kartika || Erienastic || {{Twitter|erienastic}} <br> {{Instagram|erienastic}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Gabriella Stevany || Voice of Vany || {{Twitter|VoiceOfVany}} <br> {{Instagram|voiceofvany.id}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Keisya Ramadhani || Keisyavers || {{Twitter|keisyavers}} <br> {{Instagram|keisyavers_official}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Nyimas Ratu Rafa || Queenact || {{Twitter|Queenactoffc}} <br> {{Instagram|queenact_official}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Pamela Krysanthe || Pamelasky || {{Twitter|Pamelasky_ID}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Reva Adriana || Historeva || {{Twitter|Historeva}} (❌)
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Salma Annisa || Salmate || {{Twitter|Salmate_OFC}} (🚧)
+|-
+| [[Berkas:Umeboshi.jpg|120px]] || Umega Maulana || Umeboshi || {{Twitter|Umeboshi_Ofc}} <br> {{Instagram|umeboshi_ofc}}
+|-
+| [[Berkas:🤔🤔🤔|120px]] || Zahra Nur || Arashi || {{Twitter|Arashi_ID}} <br> {{Instagram|ara.shi_id}} <br> {{Tiktok|arashi.id}} <br> {{SRlogo}} [https://www.showroom-live.com/room/profile?room_id=367127 Arashi_id] <br> {{Saweria-logo}} [https://saweria.co/ArashiOfficial saweria.co/ArashiOfficial] <br> 🌐[https://linktr.ee/OfficialArashi linktr.ee/OfficialArashi]
+|}
+
+==== Gen 9 ====
+
+Member tanpa fanbase:
+* Iris Vevina Prasetio ([https://akb48.fandom.com/wiki/Iris_Vevina_Prasetio AKB48 Fandom], [http://stage48.net/wiki/index.php/Iris_Vevina_Prasetio Stage48 Wiki])
+* Tiara Sasi ([https://akb48.fandom.com/wiki/Tiara_Sasi AKB48 Fandom], [http://stage48.net/wiki/index.php/Tiara_Sasi Stage48 Wiki])
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Caithlyn Gwyneth || Caithter || {{Twitter|caithter}} <br> {{Instagram|caithter_official}} (❌)
+|-
+|  || Chalista Ellysia || ChalistaR || {{Twitter|ChalistaR_ID}} <br> {{Instagram|chalistar_official}}
+|-
+|  || Christabel Jocelyn || Adorabel || {{Twitter|AdorabelTeam}}
+|-
+| [[Berkas:Hanabirra.jpg|120px]] || Nabila Gusmarlia || Hanabirra || {{Twitter|Hanabirra_}} <br> {{Itchio-logo}} [https://hanabirra.itch.io/ hanabirra.itch.io] <br> 🌐 [https://hanabirra.carrd.co hanabirra.carrd.co]
+|-
+|  || Olivia Payten || Paytension || {{Twitter|Paytension_}}
+|-
+|  || Putri Elzahra || Zahrise || {{Twitter|ZahriseOfc}}
+|-
+|  || Shinta Devi || Sweet Of Shinta || {{Twitter|SweetOfShinta}}
+|}
+
+==== Gen 10 ====
+
+Member tanpa fanbase:
+*  Abieza Syabira ([https://akb48.fandom.com/wiki/Abieza_Syabira AKB48 Fandom] | [http://www.stage48.net/wiki/index.php/Abieza_Syabira Stage48])
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+| [[Berkas:Daneshine.jpg|120px]] || Danessa Valerie || Daneshine || {{Twitter|DaneshineOfc}}
+|-
+| [[Berkas:Nasa Official.jpg|120px]] || Naura Safinatunnajah || Nasa Official || {{Twitter|NasaOfficialOfc}}
+|}
+
+==== Kaigai dan Exchange ====
+
+Member (mungkin) tanpa fanbase:
+* Kawamoto Saya ([https://akb48.fandom.com/wiki/Kawamoto_Saya AKB48 Fandom], [https://stage48.net/wiki/index.php/Kawamoto_Saya Stage48 Wiki])
+
+{| class="wikitable"
+|-
+! Logo !! Member !! Nama Fanbase !! Sosial Media
+|-
+|  || Nakagawa Haruka || Harugoners, Harukanisme, Haruka Family || {{Twitter|HarugonFC}}
+|-
+|  || Takajo Aki || Akichaholic ||
+|-
+|  || Chikano Rina || Rinations, ChikanoRI || {{Twitter|ChikarinaFANS_I}}
+|}
